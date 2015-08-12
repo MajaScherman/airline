@@ -1,11 +1,16 @@
 # airline
-Istructions: To run the database.
+Instructions: How to run the database.
+
 1.Open up MS SQL server
+
 2.Run create.sql
+
 3.Run insert.sql
+
 4.Run questions.sql
 
-Explaination
+Explaination:
+
 I have built a database for a imaginary airline. 
 The motivation for how I designed the structure for this database was a customer story about what was needed so I specified it exactly after the given story.
 The project consists of three scripts that you can run in MS SQL server.
