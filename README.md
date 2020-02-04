@@ -18,3 +18,7 @@ First you run create.sql to create the database then insert.sql to insert exampe
 A cool thing you can do is to use SQL server management studio to draw a database diagram of the database so you easily can view the ER-diagram with keys clearly marked.
 
 Have fun! :D
+
+
+### About this project  
+Here I have designed and built a database for an airline company. It is complete with tables I would believe suitible for an airline company, with information insertable and several queries of interest for using the system. In this project I have explored the complexity in designing databases. 
